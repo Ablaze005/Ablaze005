@@ -1,61 +1,53 @@
-<h1 align="center">🌌 Ablaze Pariyar</h1>
-<p align="center">
-  <b>Crafting ideas into code — one project at a time.</b>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00A3FF&center=true&vCenter=true&width=600&lines=Hey+I'm+Ablaze+Pariyar;Backend+Engineer+in+Progress;AI+Agent+Builder;FastAPI+%7C+Supabase+%7C+Railway;Turning+Ideas+Into+Code" />
+</h1>
 
 ---
 
-## 👋 About Me
-I’m Ablaze, a computing student passionate about backend engineering, AI agents, automation, and cloud deployment.  
-I love building things that feel **smart**, **useful**, and **alive** — from WhatsApp bots to full-stack web apps.
+## 🚀 About Me
+I'm Ablaze — a computing student who loves building **agentic systems**, **automation tools**, and **cloud‑ready backends**.  
+I enjoy creating things that feel **smart**, **useful**, and **alive** — from WhatsApp bots to multi‑agent workflows.
 
 ---
 
-## 🚀 What I’m Working On
-- Intelligent agents & automation tools  
-- WhatsApp integrations using **Twilio**  
-- Cloud deployments with **Railway**, **Supabase**, and **Azure**  
-- FastAPI backend systems  
-- Clean, responsive UI design  
+## 🔥 Tech Stack
+<div align="center">
+
+| Category | Tools |
+|---------|-------|
+| **Languages** | Python, JavaScript, Java, C++ |
+| **Backend** | FastAPI, Node.js, Supabase, PostgreSQL |
+| **Cloud** | Railway, Azure, GitHub Actions |
+| **AI Tools** | DeepSeek, Groq, Claude, GitHub Copilot |
+| **Frontend** | HTML, CSS, modern UI/UX |
+
+</div>
 
 ---
 
-## 🧠 Tech Stack
-**Languages:** Python, JavaScript, Java, C++  
-**Backend:** FastAPI, Node.js, Supabase, PostgreSQL  
-**Cloud:** Railway, Azure, GitHub Actions  
-**AI Tools:** DeepSeek, Groq, Claude, GitHub Copilot  
-**Frontend:** HTML, CSS, modern UI/UX  
+## 🎯 What I’m Working On
+- Building **AI agents** that automate real workflows  
+- Creating **Supabase‑powered agent memory systems**  
+- Deploying cloud apps with **Railway**  
+- Designing clean, responsive UI experiences  
+- Learning advanced backend + agentic architecture  
 
 ---
 
-## 🎯 Goals
-- Become a strong backend + AI engineer  
-- Build production-ready agentic systems  
-- Contribute to open-source security tools  
-- Create tools that automate digital life  
-
----
-
-## 📫 Connect With Me
-- **Instagram:** @ablazepariyar  
-- **GitHub:** You’re already here 👀  
-
----
-
-## ⚡ Fun Facts
-- I love anime with reincarnation & romance themes  
-- Interested in UK military tech & defense systems  
-- Obsessed with clean UI and subtle luxury design  
-- Music helps me code faster — especially The Marías & Cigarettes After Sex  
+## 🧠 Interests
+- Agentic AI systems  
+- UK military tech & defense  
+- Anime (romance + reincarnation themes)  
+- Subtle luxury UI design  
+- Music that fuels coding (The Marías, CAS, Mitski)  
 
 ---
 
 ## 🏗️ Featured Projects
 - 🔧 **WhatsApp AI Agent** — Twilio + FastAPI + Railway  
+- 🧩 **Supabase Agent System** — Database-driven automation logic  
 - 🌐 **AI Knowledge Hub** — Interactive web app with animations  
 - 🛡️ **OpenShield Rule Contributions** — Azure security automation  
-- 🧩 **Supabase Agent System** — Database-driven automation logic  
 
 ---
 
@@ -64,6 +56,24 @@ I love building things that feel **smart**, **useful**, and **alive** — from W
 
 ---
 
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ablaze005&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ablaze005&theme=tokyonight" height="160px"/>
+</div>
+
+---
+
+<h2 align="center">✨ Connect With Me</h2>
+
+<div align="center">
+  <a href="https://instagram.com/ablazepariyar">Instagram</a> • 
+  <a href="https://github.com/Ablaze005">GitHub</a>
+</div>
+
+---
+
 <p align="center">
-  <i>Thanks for visiting — more projects coming soon.</i>
+  <i>Thanks for stopping by — more projects coming soon.</i>
 </p>
