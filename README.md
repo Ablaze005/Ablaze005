@@ -80,3 +80,4 @@ Database-driven logic for automated workflows and agents.
 <p align="center">
   <img src="./profile-3d-contrib.svg" alt="3D GitHub Profile Contribution Graph" width="100%">
 </p>
+```

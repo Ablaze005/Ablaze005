@@ -1,0 +1,4 @@
+# from repo root
+npx svgexport assets/banner.svg assets/banner.png 3600:1200
+# optimize
+npx pngquant --quality=70-90 --speed 1 --force --output assets/banner.png assets/banner.png
