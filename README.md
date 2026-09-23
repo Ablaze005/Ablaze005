@@ -1,5 +1,6 @@
+<!-- Animated header -->
 <p align="center">
-  <img src="https://i.imgur.com/7YV1Z3P.gif" width="220" alt="highlight animation">
+  <img src="https://i.imgur.com/7YV1Z3P.gif" width="220" alt="animated highlight">
 </p>
 
 <h1 align="center">⚡ Ablaze Pariyar</h1>
@@ -9,7 +10,7 @@
 
 ## 🚀 About Me
 I’m a computing student and backend engineer focused on building intelligent, scalable systems powered by AI, automation, and cloud technologies.  
-I enjoy creating tools that feel futuristic, efficient, and engineered for real-world impact.
+I design tools that feel futuristic, efficient, and engineered for real-world impact.
 
 ---
 
@@ -40,10 +41,17 @@ I enjoy creating tools that feel futuristic, efficient, and engineered for real-
 
 ---
 
+## 🧊 3D Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ablaze005/Ablaze005/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%">
+</p>
+
+---
+
 ## 🎯 Mission
 To engineer intelligent systems that feel effortless, intuitive, and ahead of their time.
 
 ---
 
 ## 📫 Connect
-**Instagram:** @ablazepariyar
+**Instagram:** @ablazepariyar  
