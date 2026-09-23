@@ -1,8 +1,3 @@
-<p align="center">
-  <!-- Neon cyberpunk header GIF (replace with your own if you host it) -->
-  <img src="https://i.imgur.com/7YV1Z3P.gif" width="260" alt="Neon Ablaze Pariyar">
-</p>
-
 <h1 align="center">⚡ Ablaze Pariyar</h1>
 <h3 align="center">Backend & AI Engineering · Cloud Automation · Intelligent Systems</h3>
 
@@ -60,23 +55,11 @@ HTML · CSS
 
 ---
 
-## 🧊 3D Contribution Graph
+## 🧊 Contribution Graph (3D‑Inspired)
 
+> You can add a 3D‑style contribution graph here once you generate an SVG (for example using `github-profile-3d-contrib`) and commit it to this repo.
+
+```md
 <p align="center">
-  <!-- Example 3D contribution graph (replace with your generated SVG path) -->
-  <img src="https://raw.githubusercontent.com/Ablaze005/Ablaze005/main/profile-3d-contrib/profile-night-rainbow.svg" 
-       alt="3D GitHub Profile Contribution Graph" 
-       width="100%">
+  <img src="./profile-3d-contrib.svg" alt="3D GitHub Profile Contribution Graph" width="100%">
 </p>
-
----
-
-## 🎯 Mission
-
-To engineer intelligent systems that feel effortless, intuitive, and ahead of their time.
-
----
-
-## 📫 Connect
-
-**Instagram:** `@ablazepariyar`  
