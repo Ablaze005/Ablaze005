@@ -1,23 +1,9 @@
-<!-- Simple animated highlight header -->
-<h1 align="center">
-  <span style="background: linear-gradient(90deg, #00e1ff, #0077ff, #00e1ff); 
-               background-size: 200% 200%; 
-               -webkit-background-clip: text; 
-               color: transparent; 
-               animation: gradientMove 3s ease infinite;">
-    ⚡ Ablaze Pariyar
-  </span>
-</h1>
+<p align="center">
+  <img src="https://i.imgur.com/7YV1Z3P.gif" width="220" alt="highlight animation">
+</p>
 
+<h1 align="center">⚡ Ablaze Pariyar</h1>
 <h3 align="center">Backend & AI Engineering • Cloud Automation • Intelligent Systems</h3>
-
-<style>
-@keyframes gradientMove {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-</style>
 
 ---
 
@@ -60,4 +46,4 @@ To engineer intelligent systems that feel effortless, intuitive, and ahead of th
 ---
 
 ## 📫 Connect
-**Instagram:** @ablazepariyar  
+**Instagram:** @ablazepariyar
