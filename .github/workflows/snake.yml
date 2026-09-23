@@ -18,7 +18,7 @@ jobs:
       - name: Generate snake
         uses: Platane/snk@v3
         with:
-          github_user_name: Ablaze-Pariyar
+          github_user_name: Ablaze005
           outputs: |
             dist/snake.svg?color_snake=#00F0FF&color_dots=#0A0A12,#9D4EDD,#00F0FF,#FF2DAA,#FFFFFF
 

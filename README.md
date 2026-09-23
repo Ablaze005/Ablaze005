@@ -4,17 +4,17 @@
 
 <br/>
 
-<img src="./assets/rotating-3d.gif" alt="Ablaze Pariyar — 3D Rotating Text" width="100%" />
+<img src="./assets/rotating-3d.svg" alt="Ablaze Pariyar — 3D Rotating Text" width="100%" />
 
 <br/>
 
-<a href="https://github.com/Ablaze-Pariyar">
+<a href="https://github.com/Ablaze005">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=Backend+%26+AI+Engineer;Cloud+Automation+Developer;Futuristic+System+Builder" />
 </a>
 
 <br/>
 
-![Snake](https://raw.githubusercontent.com/Ablaze-Pariyar/Ablaze-Pariyar/output/snake.svg)
+![Snake](https://raw.githubusercontent.com/Ablaze005/Ablaze005/output/snake.svg)
 
 </div>
 
@@ -72,12 +72,7 @@ Database-driven logic for automated workflows and agents.
 
 ---
 
-## 🧊 Contribution Graph (3D Inspired)
+## 🧊 Contribution Graph
 
-> Add your generated 3D graph here once you commit the SVG.
-
-```md
-<p align="center">
-  <img src="./profile-3d-contrib.svg" alt="3D GitHub Profile Contribution Graph" width="100%">
-</p>
-```
+The contribution animation is generated automatically by the GitHub Actions workflow
+and published to the `output` branch.
