@@ -1,79 +1,63 @@
+<!-- Simple animated highlight header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00A3FF&center=true&vCenter=true&width=600&lines=Hey+I'm+Ablaze+Pariyar;Backend+Engineer+in+Progress;AI+Agent+Builder;FastAPI+%7C+Supabase+%7C+Railway;Turning+Ideas+Into+Code" />
+  <span style="background: linear-gradient(90deg, #00e1ff, #0077ff, #00e1ff); 
+               background-size: 200% 200%; 
+               -webkit-background-clip: text; 
+               color: transparent; 
+               animation: gradientMove 3s ease infinite;">
+    ⚡ Ablaze Pariyar
+  </span>
 </h1>
+
+<h3 align="center">Backend & AI Engineering • Cloud Automation • Intelligent Systems</h3>
+
+<style>
+@keyframes gradientMove {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+</style>
 
 ---
 
 ## 🚀 About Me
-I'm Ablaze — a computing student who loves building **agentic systems**, **automation tools**, and **cloud‑ready backends**.  
-I enjoy creating things that feel **smart**, **useful**, and **alive** — from WhatsApp bots to multi‑agent workflows.
+I’m a computing student and backend engineer focused on building intelligent, scalable systems powered by AI, automation, and cloud technologies.  
+I enjoy creating tools that feel futuristic, efficient, and engineered for real-world impact.
 
 ---
 
-## 🔥 Tech Stack
-<div align="center">
-
-| Category | Tools |
-|---------|-------|
-| **Languages** | Python, JavaScript, Java, C++ |
-| **Backend** | FastAPI, Node.js, Supabase, PostgreSQL |
-| **Cloud** | Railway, Azure, GitHub Actions |
-| **AI Tools** | DeepSeek, Groq, Claude, GitHub Copilot |
-| **Frontend** | HTML, CSS, modern UI/UX |
-
-</div>
+## 🧠 Technical Focus Areas
+- AI Agents & Automation  
+- Backend Engineering (Node.js, TypeScript, FastAPI)  
+- Cloud Deployment (Railway, Supabase, Azure)  
+- Database Systems (PostgreSQL, Supabase)  
+- Real-time Communication (WhatsApp Cloud API, Webhooks)  
+- System Design & Scalability  
 
 ---
 
-## 🎯 What I’m Working On
-- Building **AI agents** that automate real workflows  
-- Creating **Supabase‑powered agent memory systems**  
-- Deploying cloud apps with **Railway**  
-- Designing clean, responsive UI experiences  
-- Learning advanced backend + agentic architecture  
-
----
-
-## 🧠 Interests
-- Agentic AI systems  
-- UK military tech & defense  
-- Anime (romance + reincarnation themes)  
-- Subtle luxury UI design  
-- Music that fuels coding (The Marías, CAS, Mitski)  
+## 🔧 Tech Stack
+**Languages:** TypeScript, Python, Java  
+**Backend:** Node.js, Express, FastAPI  
+**AI:** Groq, Gemini, DeepSeek  
+**Cloud:** Railway, Azure, Supabase, GitHub Actions  
+**Frontend:** HTML, CSS  
 
 ---
 
 ## 🏗️ Featured Projects
-- 🔧 **WhatsApp AI Agent** — Twilio + FastAPI + Railway  
+- 🤖 **WhatsApp AI Agent** — LLM-powered auto-responder using Groq  
+- 🌐 **AI Knowledge Hub** — Dynamic web app for structured AI content  
+- 🔐 **OpenShield Automation** — Security rule contributions for Azure  
 - 🧩 **Supabase Agent System** — Database-driven automation logic  
-- 🌐 **AI Knowledge Hub** — Interactive web app with animations  
-- 🛡️ **OpenShield Rule Contributions** — Azure security automation  
 
 ---
 
-## 💬 Quote I Live By
-> *“Build things that make you proud — even if no one sees them yet.”*
+## 🎯 Mission
+To engineer intelligent systems that feel effortless, intuitive, and ahead of their time.
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ablaze005&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ablaze005&theme=tokyonight" height="160px"/>
-</div>
-
----
-
-<h2 align="center">✨ Connect With Me</h2>
-
-<div align="center">
-  <a href="https://instagram.com/ablazepariyar">Instagram</a> • 
-  <a href="https://github.com/Ablaze005">GitHub</a>
-</div>
-
----
-
-<p align="center">
-  <i>Thanks for stopping by — more projects coming soon.</i>
-</p>
+## 📫 Connect
+**Instagram:** @ablazepariyar  
