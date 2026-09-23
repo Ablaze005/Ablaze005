@@ -20,7 +20,7 @@ jobs:
         with:
           github_user_name: Ablaze005
           outputs: |
-            dist/snake.svg?color_snake=#00F0FF&color_dots=#0A0A12,#9D4EDD,#00F0FF,#FF2DAA,#FFFFFF
+            dist/snake.svg?color_snake=#7DD3FC&color_dots=#080A12,#312E81,#164E63,#831843,#E5E7EB
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4

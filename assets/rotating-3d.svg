@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="100%">
   <defs>
     <linearGradient id="face" x1="0" x2="1">
-      <stop offset="0%"  stop-color="#00F0FF"/>
-      <stop offset="50%" stop-color="#9D4EDD"/>
-      <stop offset="100%" stop-color="#FF2DAA"/>
+      <stop offset="0%"  stop-color="#7DD3FC"/>
+      <stop offset="50%" stop-color="#6D28D9"/>
+      <stop offset="100%" stop-color="#BE185D"/>
     </linearGradient>
     <filter id="vol">
       <feGaussianBlur stdDeviation="4" result="b"/>
@@ -14,7 +14,7 @@
     </filter>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
       <path d="M40 0H0V40" fill="none"
-            stroke="#00F0FF" stroke-opacity="0.15"/>
+            stroke="#7DD3FC" stroke-opacity="0.12"/>
     </pattern>
   </defs>
 
@@ -29,7 +29,7 @@
       dur="6s" repeatCount="indefinite"/>
 
     <!-- extrusion layers -->
-    <g fill="#9D4EDD" opacity="0.55">
+    <g fill="#312E81" opacity="0.65">
       <text x="6" y="6" text-anchor="middle"
             font-family="Orbitron, sans-serif"
             font-size="110" font-weight="900">Ablaze Pariyar</text>
