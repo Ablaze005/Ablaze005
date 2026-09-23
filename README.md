@@ -1,57 +1,82 @@
-<!-- Animated header -->
 <p align="center">
-  <img src="https://i.imgur.com/7YV1Z3P.gif" width="220" alt="animated highlight">
+  <!-- Neon cyberpunk header GIF (replace with your own if you host it) -->
+  <img src="https://i.imgur.com/7YV1Z3P.gif" width="260" alt="Neon Ablaze Pariyar">
 </p>
 
 <h1 align="center">⚡ Ablaze Pariyar</h1>
-<h3 align="center">Backend & AI Engineering • Cloud Automation • Intelligent Systems</h3>
+<h3 align="center">Backend & AI Engineering · Cloud Automation · Intelligent Systems</h3>
 
 ---
 
 ## 🚀 About Me
+
 I’m a computing student and backend engineer focused on building intelligent, scalable systems powered by AI, automation, and cloud technologies.  
-I design tools that feel futuristic, efficient, and engineered for real-world impact.
+I like systems that feel like they belong in the future—fast, reliable, and quietly smart.
 
 ---
 
-## 🧠 Technical Focus Areas
-- AI Agents & Automation  
-- Backend Engineering (Node.js, TypeScript, FastAPI)  
-- Cloud Deployment (Railway, Supabase, Azure)  
-- Database Systems (PostgreSQL, Supabase)  
-- Real-time Communication (WhatsApp Cloud API, Webhooks)  
-- System Design & Scalability  
+## 🧠 Focus Areas
+
+- **AI Agents & Automation** — LLM workflows, WhatsApp bots, task orchestration  
+- **Backend Engineering** — Node.js, TypeScript, FastAPI, REST APIs  
+- **Cloud & Infra** — Railway, Azure, Supabase, GitHub Actions  
+- **Data & Storage** — PostgreSQL, Supabase  
+- **Real‑time & Integrations** — Webhooks, WhatsApp Cloud API  
 
 ---
 
 ## 🔧 Tech Stack
-**Languages:** TypeScript, Python, Java  
-**Backend:** Node.js, Express, FastAPI  
-**AI:** Groq, Gemini, DeepSeek  
-**Cloud:** Railway, Azure, Supabase, GitHub Actions  
-**Frontend:** HTML, CSS  
+
+**Languages:**  
+TypeScript · Python · Java · JavaScript  
+
+**Backend & APIs:**  
+Node.js · Express · FastAPI · REST  
+
+**AI & Tools:**  
+Groq · Gemini · DeepSeek · GitHub Copilot  
+
+**Cloud & DevOps:**  
+Railway · Azure · Supabase · GitHub Actions  
+
+**Frontend:**  
+HTML · CSS  
 
 ---
 
-## 🏗️ Featured Projects
-- 🤖 **WhatsApp AI Agent** — LLM-powered auto-responder using Groq  
-- 🌐 **AI Knowledge Hub** — Dynamic web app for structured AI content  
-- 🔐 **OpenShield Automation** — Security rule contributions for Azure  
-- 🧩 **Supabase Agent System** — Database-driven automation logic  
+## 🏗️ Projects
+
+- 🤖 **WhatsApp AI Agent**  
+  LLM‑powered auto‑responder using Groq and WhatsApp Cloud API.
+
+- 🌐 **AI Knowledge Hub**  
+  Dynamic web app for structured AI content and experimentation.
+
+- 🔐 **OpenShield Automation**  
+  Security rule contributions and automation for Azure environments.
+
+- 🧩 **Supabase Agent System**  
+  Database‑driven logic for automated workflows and agents.
 
 ---
 
 ## 🧊 3D Contribution Graph
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ablaze005/Ablaze005/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%">
+  <!-- Example 3D contribution graph (replace with your generated SVG path) -->
+  <img src="https://raw.githubusercontent.com/Ablaze005/Ablaze005/main/profile-3d-contrib/profile-night-rainbow.svg" 
+       alt="3D GitHub Profile Contribution Graph" 
+       width="100%">
 </p>
 
 ---
 
 ## 🎯 Mission
+
 To engineer intelligent systems that feel effortless, intuitive, and ahead of their time.
 
 ---
 
 ## 📫 Connect
-**Instagram:** @ablazepariyar  
+
+**Instagram:** `@ablazepariyar`  
